@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09PhotoPicker", "09PhotoPicker\09PhotoPicker.csproj", "{48EE9C10-2D45-463B-87E0-0A0D8CD90423}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48EE9C10-2D45-463B-87E0-0A0D8CD90423}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{48EE9C10-2D45-463B-87E0-0A0D8CD90423}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{48EE9C10-2D45-463B-87E0-0A0D8CD90423}.Release|iPhone.ActiveCfg = Release|iPhone
+		{48EE9C10-2D45-463B-87E0-0A0D8CD90423}.Release|iPhone.Build.0 = Release|iPhone
+		{48EE9C10-2D45-463B-87E0-0A0D8CD90423}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{48EE9C10-2D45-463B-87E0-0A0D8CD90423}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{48EE9C10-2D45-463B-87E0-0A0D8CD90423}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{48EE9C10-2D45-463B-87E0-0A0D8CD90423}.Debug|iPhone.Build.0 = Debug|iPhone
+	EndGlobalSection
+EndGlobal
