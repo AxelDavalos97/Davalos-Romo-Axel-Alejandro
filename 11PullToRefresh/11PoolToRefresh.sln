@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11PoolToRefresh", "11PoolToRefresh\11PoolToRefresh.csproj", "{ED705D24-73BB-46D2-8EFA-3615F9864451}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED705D24-73BB-46D2-8EFA-3615F9864451}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{ED705D24-73BB-46D2-8EFA-3615F9864451}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{ED705D24-73BB-46D2-8EFA-3615F9864451}.Release|iPhone.ActiveCfg = Release|iPhone
+		{ED705D24-73BB-46D2-8EFA-3615F9864451}.Release|iPhone.Build.0 = Release|iPhone
+		{ED705D24-73BB-46D2-8EFA-3615F9864451}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{ED705D24-73BB-46D2-8EFA-3615F9864451}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{ED705D24-73BB-46D2-8EFA-3615F9864451}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{ED705D24-73BB-46D2-8EFA-3615F9864451}.Debug|iPhone.Build.0 = Debug|iPhone
+	EndGlobalSection
+EndGlobal

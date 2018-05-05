@@ -1,0 +1,14 @@
+/Users/axel/Documents/Parcial 2/PRACTICAS IOS/11PoolToRefresh/11PoolToRefresh/bin/iPhoneSimulator/Debug/11PoolToRefresh.exe
+/Users/axel/Documents/Parcial 2/PRACTICAS IOS/11PoolToRefresh/11PoolToRefresh/bin/iPhoneSimulator/Debug/11PoolToRefresh.pdb
+/Users/axel/Documents/Parcial 2/PRACTICAS IOS/11PoolToRefresh/11PoolToRefresh/bin/iPhoneSimulator/Debug/Newtonsoft.Json.dll
+/Users/axel/Documents/Parcial 2/PRACTICAS IOS/11PoolToRefresh/11PoolToRefresh/bin/iPhoneSimulator/Debug/Newtonsoft.Json.xml
+/Users/axel/Documents/Parcial 2/PRACTICAS IOS/11PoolToRefresh/11PoolToRefresh/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.2/ibtool/_BundleResourceWithLogicalName.items
+/Users/axel/Documents/Parcial 2/PRACTICAS IOS/11PoolToRefresh/11PoolToRefresh/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.2/actool/_PartialAppManifest.items
+/Users/axel/Documents/Parcial 2/PRACTICAS IOS/11PoolToRefresh/11PoolToRefresh/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.2/actool/_BundleResourceWithLogicalName.items
+/Users/axel/Documents/Parcial 2/PRACTICAS IOS/11PoolToRefresh/11PoolToRefresh/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.2/coremlc/_PartialAppManifest.items
+/Users/axel/Documents/Parcial 2/PRACTICAS IOS/11PoolToRefresh/11PoolToRefresh/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.2/coremlc/_BundleResourceWithLogicalName.items
+/Users/axel/Documents/Parcial 2/PRACTICAS IOS/11PoolToRefresh/11PoolToRefresh/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.2/optimized/
+/Users/axel/Documents/Parcial 2/PRACTICAS IOS/11PoolToRefresh/11PoolToRefresh/obj/iPhoneSimulator/Debug/11PoolToRefresh.csprojResolveAssemblyReference.cache
+/Users/axel/Documents/Parcial 2/PRACTICAS IOS/11PoolToRefresh/11PoolToRefresh/obj/iPhoneSimulator/Debug/11PoolToRefresh.csproj.CoreCompileInputs.cache
+/Users/axel/Documents/Parcial 2/PRACTICAS IOS/11PoolToRefresh/11PoolToRefresh/obj/iPhoneSimulator/Debug/11PoolToRefresh.exe
+/Users/axel/Documents/Parcial 2/PRACTICAS IOS/11PoolToRefresh/11PoolToRefresh/obj/iPhoneSimulator/Debug/11PoolToRefresh.pdb
