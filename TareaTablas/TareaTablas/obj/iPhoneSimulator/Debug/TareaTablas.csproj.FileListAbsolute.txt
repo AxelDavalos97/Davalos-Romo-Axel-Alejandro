@@ -1,0 +1,11 @@
+/Users/axel/Documents/Parcial 2/PRACTICAS IOS/TareaTablas/TareaTablas/bin/iPhoneSimulator/Debug/TareaTablas.exe
+/Users/axel/Documents/Parcial 2/PRACTICAS IOS/TareaTablas/TareaTablas/bin/iPhoneSimulator/Debug/TareaTablas.pdb
+/Users/axel/Documents/Parcial 2/PRACTICAS IOS/TareaTablas/TareaTablas/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.2/ibtool/_BundleResourceWithLogicalName.items
+/Users/axel/Documents/Parcial 2/PRACTICAS IOS/TareaTablas/TareaTablas/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.2/actool/_PartialAppManifest.items
+/Users/axel/Documents/Parcial 2/PRACTICAS IOS/TareaTablas/TareaTablas/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.2/actool/_BundleResourceWithLogicalName.items
+/Users/axel/Documents/Parcial 2/PRACTICAS IOS/TareaTablas/TareaTablas/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.2/coremlc/_PartialAppManifest.items
+/Users/axel/Documents/Parcial 2/PRACTICAS IOS/TareaTablas/TareaTablas/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.2/coremlc/_BundleResourceWithLogicalName.items
+/Users/axel/Documents/Parcial 2/PRACTICAS IOS/TareaTablas/TareaTablas/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.2/optimized/
+/Users/axel/Documents/Parcial 2/PRACTICAS IOS/TareaTablas/TareaTablas/obj/iPhoneSimulator/Debug/TareaTablas.csproj.CoreCompileInputs.cache
+/Users/axel/Documents/Parcial 2/PRACTICAS IOS/TareaTablas/TareaTablas/obj/iPhoneSimulator/Debug/TareaTablas.exe
+/Users/axel/Documents/Parcial 2/PRACTICAS IOS/TareaTablas/TareaTablas/obj/iPhoneSimulator/Debug/TareaTablas.pdb
