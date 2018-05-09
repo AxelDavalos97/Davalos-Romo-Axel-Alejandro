@@ -21,10 +21,10 @@ namespace ExamenParcial2.Models {
 		{
 			auth = new SingleUserAuthorizer {
 				CredentialStore = new InMemoryCredentialStore {
-					ConsumerKey = "4SrnUuH6tdHyWcI1NJuVhLb5h",
-					ConsumerSecret = "xLki1TUQeEHsKDIQwQgXjtLQNGoU7Suaw7H1KXNrF2Alw52im4",
-					OAuthToken = "2393451408-vB88YGg0UP9CQegSJQrwGLaJuxFJYkG8frfilC7",
-					OAuthTokenSecret = "UkkoQ8nhwBUUidMQNTJPBEXTllhSkIH9b9GBM8zZyvq2m"
+					ConsumerKey = "",
+					ConsumerSecret = "",
+					OAuthToken = "",
+					OAuthTokenSecret = ""
 				}
 			};
 			twitterContext = new TwitterContext (auth);
